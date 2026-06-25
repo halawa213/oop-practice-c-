@@ -10,9 +10,10 @@ This repository contains C++ programs and exercises that I wrote while studying 
 * Inheritance
 * Polymorphism
 * Abstraction
-* Friend Functions
+* Friend Functions & static variables
 * Operator Overloading
-* File Handling (if applicable)
+* Templates
+* Namesapaces
 
 ## Purpose
 
